@@ -58,5 +58,5 @@ A schema is an outline of the entire data warehouse. It shows how different data
     
 ## OLAP vs OLTP
 <p align="center">
-      <img width="460" height="300" src="/assets/diff.png">
+      <img width="460" height="300" src="Database design/assets/diff.png">
 </p>
